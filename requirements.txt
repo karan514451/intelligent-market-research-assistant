@@ -1,0 +1,9 @@
+streamlit
+langflow
+ibm-watsonx-ai
+chromadb
+pandas
+numpy
+requests
+sentence-transformers
+python-dotenv

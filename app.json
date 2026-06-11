@@ -1,0 +1,13 @@
+{
+  "project_name": "Intelligent Market Research Assistant",
+  "version": "1.0",
+  "author": "Prof. Karan Padhiyar",
+  "email": "karan1.k705@gmail.com",
+  "technology": [
+    "LangFlow",
+    "IBM watsonx.ai",
+    "IBM Granite",
+    "RAG",
+    "ChromaDB"
+  ]
+}

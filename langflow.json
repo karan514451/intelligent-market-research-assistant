@@ -1,0 +1,16 @@
+{
+  "name": "Market Research Workflow",
+  "components": [
+    "Chat Input",
+    "URL Loader",
+    "Text Splitter",
+    "IBM Embeddings",
+    "ChromaDB",
+    "Retriever",
+    "IBM Granite Model",
+    "Competitor Agent",
+    "Sentiment Agent",
+    "Trend Forecast Agent",
+    "Chat Output"
+  ]
+}
