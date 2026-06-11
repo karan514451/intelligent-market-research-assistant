@@ -1,4 +1,4 @@
-# intelligent-market-research-assistant
+
 # Intelligent Market Research Assistant
 
 ## Overview
